@@ -23,7 +23,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-git remote add download https://github.com/allegheny-computer-science-580-s2020/peer-review
+git remote add download https://github.com/allegheny-computer-science-580-s2020/peer-review.git
 ```
 
 You should only need to type this command once; typing the command additional

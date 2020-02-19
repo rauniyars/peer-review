@@ -7,13 +7,9 @@ indent: 4
 IntroOutline.md:
         CountFileWords --count 200
         ConfirmFileExists
-        MatchFileFragment --fragment "url" --count 1
-        MatchFileFragment --fragment "begin{frame}" --count 5
-        MatchFileFragment --fragment "end{frame}" --count 5
-        MatchFileFragment --fragment "begin{tabular}" --count 1
-        MatchFileFragment --fragment "end{tabular}" --count 1
-        MatchFileFragment --fragment "includegraphics" --count 1
-        MatchFileFragment --fragment "beamerbutton" --count 1
-        MatchFileFragment --fragment "<1->" --count 1
-        MatchFileRegex --regex "block|equation|theorem" --count 1
+        MatchFileFragment --fragment "TODO" --count 0 --exact
+        MatchFileFragment --fragment "Add Name Here" --count 0 --exact
+        MatchFileFragment --fragment "Add Name Here" --count 0 --exact
+    	CountMarkdownTags --tag "list" --count 1 --exact
+    	CountMarkdownTags --tag "heading" --count 6 --exact
 CountCommits --count 1

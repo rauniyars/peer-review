@@ -2,9 +2,9 @@
 
 Please fill out the following checklist and answer the questions below.
 
-## Proposal Draft Author:
-## Peer Reviewer:
-### Date of the review:
+## Proposal Draft Author: Add Name Here
+## Peer Reviewer: Add Name Here
+### Date of the review: TODO
 
 ## Checklist
 - [ ] The title of the proposal seems appropriate and exciting.
@@ -17,4 +17,5 @@ Please fill out the following checklist and answer the questions below.
 
 ## Summary
 
-Provide a summary of the positive and negative aspects of the outline draft you have reviewed. Specify any places in the reviewed outline where you did not understand the point, or needed more information, or where something did not seem to belong in the outline of the proposal. You have to write at least 100 words in this paragraph.
+TODO:
+Provide a summary of the positive and negative aspects of the outline draft you have reviewed. Specify any places in the reviewed outline where you did not understand the point, or needed more information, or where something did not seem to belong in the outline of the proposal. 
